@@ -2,6 +2,15 @@
 
 Mine doesnt work and got messed up. Ill be getting a Tutor to help me out with this and resubmit it. I am have a hard time with JS and just dont understand it. I wanted to just turn in what I had so its not a missed assignment. I know it doesnt look good or work at all and I dont know what im doing. 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 
 
