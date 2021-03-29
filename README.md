@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<a href="https://github.com/MarkReifke/Weather-Dashboard"><img src="assets/img/weather.jpg" alt="note"
+<a href="https://github.com/MarkReifke/Weather-Dashboard"><img src="assets/img/weather .jpg" alt="weather"
           width="250" height="250"> </a>            
 
 
