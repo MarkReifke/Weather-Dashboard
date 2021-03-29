@@ -1,6 +1,5 @@
 # Weather-Dashboard
 
-Mine doesnt work and got messed up. Ill be getting a Tutor to help me out with this and resubmit it. I am have a hard time with JS and just dont understand it. I wanted to just turn in what I had so its not a missed assignment. I know it doesnt look good or work at all and I dont know what im doing. 
 
 <br>
 <br>
@@ -11,7 +10,8 @@ Mine doesnt work and got messed up. Ill be getting a Tutor to help me out with t
 <br>
 <br>
 
-
+<a href="https://github.com/MarkReifke/Weather-Dashboard"><img src="assets/img/weather.jpg" alt="note"
+          width="250" height="250"> </a>            
 
 
 06 Server-Side APIs: Weather Dashboard
