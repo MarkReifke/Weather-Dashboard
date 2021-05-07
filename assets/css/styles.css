@@ -1,72 +1,60 @@
 body{
-    background: white;
-    background-attachment: fixed;
-    font-family: 'Raleway', sans-serif;
-}
-
-header{
-    height: 50px;
-    width: 98%;
-    border: 2px solid #FDE8CD ;
-    position: fixed;
-    top: 20px;
-    left: 5px;
-    display: inline;
-    background-color: #025955;
-    border-radius: 20px;
-    z-index: 3;
-}
-
-header h1 {
-    font-size: 40px;
-    color: #f6f5f5;
-    margin-right: 10px;
-    margin-top: 5px;
-    text-align: center;
-    font-family: 'Shadows Into Light', cursive;
-}
-
-.break{
     background-color: white;
-    display: block;
-    width: 100%;
-    height: 400px;
-  }
-
-.spacer{
-    height: 20px;
-}
-
-.sidebar{
-    width: 250px;
-    height: 350px;
-    margin-left: 10px;
-}
-
-.info{
-    height: 350px;
-    width: 500px;
-}
-.main{
-    display:flex;
+    background-size: cover;
     position: relative;
-    flex-direction: row;
 }
 
-.report{
-    display: none;
+footer{
+    padding: 4px;
+    position: fixed;
+    bottom: 0;
+    
+    align-items: center;
+    text-align: center;
 }
 
-.card{
-    border: 1px solid white;
-    background-color: #FDE8CD;
+form{
+    padding: 46px;
+    margin: 15px;
+    background-color: rgb(79, 134, 79);
+
+}
+h4{
+    text-align: center;
+}
+li{
+    list-style: none;
+    padding: 4px;
+    margin: 4px;
+  
+}
+#fiveday{
+    margin: 5px;
+}
+.searchlist{
+    border: 3px solid green;
+    border-radius: 5px;
 }
 
-.card p{
-    font-size: 20px;
+.searchlist:hover{ 
+    cursor: pointer;
+    
 }
 
-.saved{
-    padding: 10px;
-    color:#FDE8CD;
+.fCard{
+    
+    
+    padding: 4px;
+    margin: 8px;
+}
+
+.row1 { 
+    height:400px;
+    padding: 20px;
+}
+
+.wIcons{
+    background-color: blue;
+    height: 60px;
+    width: 60px;
 }
